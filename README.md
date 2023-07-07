@@ -1,5 +1,5 @@
 
-Amazon Clone Project :-
+Amazon Clone Project:-
 
 This project is a clone of the Amazon website created using HTML and CSS. It aims to replicate the overall look and feel of the Amazon site, including some of its functionalities. The project includes HTML and CSS code that can be uploaded to GitHub.
 
